@@ -31,7 +31,6 @@ proguard/
 .idea/
 
 #Gradle folders
-gradle/
 .gradle
 
 # Stupid MAC OSX files
