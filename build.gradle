@@ -43,12 +43,12 @@ uploadArchives {
             groupId "me.dm7.android.widget"
             artifactId "android.widget"
             description 'An android library project which contains some custom widgets'
-            url 'https://github.com/DushyanthMaguluru/android.widget'
+            url 'https://github.com/dm77/android.widget'
 
             scm {
-                url 'scm:git@github.com:DushyanthMaguluru/android.widget.git'
-                connection 'scm:git@github.com:DushyanthMaguluru/android.widget.git'
-                developerConnection 'scm:git@github.com:DushyanthMaguluru/android.widget.git'
+                url 'scm:git@github.com:dm77/android.widget.git'
+                connection 'scm:git@github.com:dm77/android.widget.git'
+                developerConnection 'scm:git@github.com:dm77/android.widget.git'
             }
 
             licenses {
@@ -61,7 +61,7 @@ uploadArchives {
 
             developers {
                 developer {
-                    id 'DushyanthMaguluru'
+                    id 'dm77'
                     name 'Dushyanth Maguluru'
                     email 'dushyanth.maguluru@gmail.com'
                 }
@@ -82,7 +82,7 @@ android {
         minSdkVersion 8
         targetSdkVersion 19
         versionCode 1
-        versionName "1.0"
+        versionName "1.1"
         packageName 'me.dm7.android.widget'
     }
 }
